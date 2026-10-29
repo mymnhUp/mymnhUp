@@ -57,7 +57,7 @@ Berikut merupakan daftar proyek praktikum Mobile Programming yang saya kerjakan 
 | 9 | 05 | 05 | StatefulWidget | [Modul 09](REPO_URL_09) |
 | 10 | 06 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](REPO_URL_10) |
 | 11 | 07 | 07 | Manajemen State dengan GetX | [Modul 11](REPO_URL_11) |
-| 12 | 08 | 08 | Ujian Tengah Semester (UTS) | [Proyek UTS](REPO_URL_UTS) |
+| 12 | 08 | 08 | Ujian Tengah Semester (UTS) | [Proyek UTS](https://github.com/mymnhUp/rasa_nusa.git) |
 
 ---
 

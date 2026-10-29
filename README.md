@@ -45,20 +45,19 @@ Hello! I'm **Siti Maimunah**, an Informatics Engineering student at UIN Maulana 
 This repository contains my Flutter and Dart practical assignments, organized by module.
 
 | Module | Topic / Material | Repository | Report |
-|:---:|---|:---:|:---:|
-| 01 | Introduction to Mobile Programming & Environment Setup | [View](REPO_URL_01) | - |
-| 02 | Row and Column Widgets | [View](REPO_URL_02) | - |
-| 03 | Row and Column Layout Configuration in Flutter | [View](REPO_URL_03) | - |
-| 04 | Flexible and Expanded Widgets | [View](REPO_URL_04) | - |
-| 05 | SizedBox, Spacer, and Card Widgets | [View](REPO_URL_05) | - |
-| 06 | GridView, ListView, GridView.builder, and ListView.builder | [View](REPO_URL_06) | - |
-| 07 | Navigation Between Pages | [View](REPO_URL_07) | - |
-| 08 | Navigation with Arguments | [View](REPO_URL_08) | - |
-| 09 | [Add Module Topic 09] | [View](REPO_URL_09) | - |
-| 10 | [Add Module Topic 10] | [View](REPO_URL_10) | - |
-| 11 | [Add Module Topic 11] | [View](REPO_URL_11) | - |
-| 12 | [Add Module Topic 12] | [View](REPO_URL_12) | - |
-| 13 | [Add Module Topic 13] | [View](REPO_URL_13) | - |
+|:---:|:---:|:---:|---|:---:|:---:|
+| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [Template laporan](#) |
+| 2 | 01 | 01 | Widget Row dan Column | [Modul 02](#) | [Template laporan](#) |
+| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
+| 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
+| 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Modul 05](#) | [Template laporan](#) |
+| 6 | 03 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](#) | [Template laporan](#) |
+| 7 | 04 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](#) | [Template laporan](#) |
+| 8 | 04 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](#) | [Template laporan](#) |
+| 9 | 05 | 05 | StatefulWidget | [Modul 09](#) | [Template laporan](#) |
+| 10 | 06 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [Template laporan](#) |
+| 11 | 07 | 07 | Manajemen State dengan GetX | [Modul 11](#) | [Template laporan](#) |
+| 12 | 08 | 08 | Ujian Tengah Semester (UTS) | [UTS](#) | [Template laporan](#) |
 
 > **Note:** Replace the repository placeholders and module topics with the actual information from your assignments.
 

@@ -48,7 +48,7 @@ Berikut merupakan daftar proyek praktikum Mobile Programming yang saya kerjakan 
 |:---:|:---:|:---:|---|:---:|
 | 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://github.com/mymnhUp/Modul-01-Pengenalan-Mobile-Programming.git) |
 | 2 | 01 | 01 | Widget Row dan Column | [Modul 02](https://github.com/mymnhUp/Modul-02-Widget-Row-dan-Column.git) |
-| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](REPO_URL_03) |
+| 3 | 02 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://github.com/mymnhUp/Modul-03-Pengaturan-Layout-Row-dan-Column.git) |
 | 4 | 02 | 02 | Widget Flexible dan Expanded | [Modul 04](REPO_URL_04) |
 | 5 | 03 | 03 | Widget SizedBox, Spacer, dan Card | [Modul 05](REPO_URL_05) |
 | 6 | 03 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](REPO_URL_06) |
